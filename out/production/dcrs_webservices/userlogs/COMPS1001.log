@@ -1,0 +1,2440 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T13:51:33</date>
+  <millis>1543085493846</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T13:51:33.831 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T13:51:35</date>
+  <millis>1543085495522</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T13:51:35.522 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T13:51:38</date>
+  <millis>1543085498737</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T13:51:38.737 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T13:51:38</date>
+  <millis>1543085498737</millis>
+  <sequence>3</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T13:51:38.737Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T13:51:44</date>
+  <millis>1543085504626</millis>
+  <sequence>4</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T13:51:44.626 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T13:51:46</date>
+  <millis>1543085506220</millis>
+  <sequence>5</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T13:51:46.220 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T13:51:48</date>
+  <millis>1543085508448</millis>
+  <sequence>6</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T13:51:48.448 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T13:51:53</date>
+  <millis>1543085513088</millis>
+  <sequence>7</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T13:51:53.088 Response from Server: Could not find the course!</message>
+</record>
+<record>
+  <date>2018-11-24T13:51:55</date>
+  <millis>1543085515403</millis>
+  <sequence>8</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T13:51:55.403 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T13:51:56</date>
+  <millis>1543085516982</millis>
+  <sequence>9</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T13:51:56.982 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T13:51:58</date>
+  <millis>1543085518702</millis>
+  <sequence>10</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T13:51:58.702 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T13:51:58</date>
+  <millis>1543085518702</millis>
+  <sequence>11</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T13:51:58.702Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T13:52:03</date>
+  <millis>1543085523017</millis>
+  <sequence>12</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T13:52:03.017 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T13:52:04</date>
+  <millis>1543085524744</millis>
+  <sequence>13</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T13:52:04.744 Response from Server: The course is full!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T17:02:28</date>
+  <millis>1543096948700</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:02:28.691 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:02:35</date>
+  <millis>1543096955792</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:02:35.792 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:02:38</date>
+  <millis>1543096958523</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:02:38.523 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:02:40</date>
+  <millis>1543096960155</millis>
+  <sequence>3</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:02:40.155 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:02:43</date>
+  <millis>1543096963752</millis>
+  <sequence>4</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:02:43.752 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:02:46</date>
+  <millis>1543096966475</millis>
+  <sequence>5</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:02:46.475 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:02:50</date>
+  <millis>1543096970147</millis>
+  <sequence>6</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:02:50.147 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:02:50</date>
+  <millis>1543096970151</millis>
+  <sequence>7</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:02:50.151Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:03:08</date>
+  <millis>1543096988071</millis>
+  <sequence>8</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:03:08.071 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:03:13</date>
+  <millis>1543096993952</millis>
+  <sequence>9</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:03:13.952 Response from Server: You have already reached your limit for this term!</message>
+</record>
+<record>
+  <date>2018-11-24T17:03:18</date>
+  <millis>1543096998245</millis>
+  <sequence>10</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:03:18.245 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:03:24</date>
+  <millis>1543097004985</millis>
+  <sequence>11</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:03:24.985Response from Server: Courses Swapped Successfully!</message>
+</record>
+<record>
+  <date>2018-11-24T17:03:28</date>
+  <millis>1543097008619</millis>
+  <sequence>12</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:03:28.619 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:03:28</date>
+  <millis>1543097008627</millis>
+  <sequence>13</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:03:28.627Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:03:35</date>
+  <millis>1543097015242</millis>
+  <sequence>14</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:03:35.242 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:03:40</date>
+  <millis>1543097020550</millis>
+  <sequence>15</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:03:40.546Response from Server: Courses Swapped Successfully!</message>
+</record>
+<record>
+  <date>2018-11-24T17:03:46</date>
+  <millis>1543097026425</millis>
+  <sequence>16</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:03:46.425 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:03:46</date>
+  <millis>1543097026433</millis>
+  <sequence>17</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:03:46.433Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:03:50</date>
+  <millis>1543097030858</millis>
+  <sequence>18</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:03:50.858 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:04:00</date>
+  <millis>1543097040333</millis>
+  <sequence>19</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:04:00.333Response from Server: Student is not enrolled in COMP1003</message>
+</record>
+<record>
+  <date>2018-11-24T17:04:06</date>
+  <millis>1543097046811</millis>
+  <sequence>20</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:04:06.811 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:04:11</date>
+  <millis>1543097051825</millis>
+  <sequence>21</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:04:11.825Response from Server: Courses Swapped Successfully!</message>
+</record>
+<record>
+  <date>2018-11-24T17:04:14</date>
+  <millis>1543097054393</millis>
+  <sequence>22</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:04:14.393 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:04:14</date>
+  <millis>1543097054399</millis>
+  <sequence>23</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:04:14.399Response from Server: </message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T17:04:59</date>
+  <millis>1543097099410</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:04:59.402 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:04:59</date>
+  <millis>1543097099419</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:04:59.419Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:05:05</date>
+  <millis>1543097105076</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:05:05.076 Operation: Swap Course</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T17:05:59</date>
+  <millis>1543097159596</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:05:59.588 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:05:59</date>
+  <millis>1543097159608</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:05:59.608Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:06:06</date>
+  <millis>1543097166445</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:06:06.445 Operation: Drop Course</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T17:08:08</date>
+  <millis>1543097288430</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:08:08.421 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:08:10</date>
+  <millis>1543097290465</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:08:10.465 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:08:14</date>
+  <millis>1543097294358</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:08:14.358 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:08:16</date>
+  <millis>1543097296737</millis>
+  <sequence>3</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:08:16.737 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:08:19</date>
+  <millis>1543097299138</millis>
+  <sequence>4</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:08:19.138 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:08:21</date>
+  <millis>1543097301371</millis>
+  <sequence>5</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:08:21.371 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:08:23</date>
+  <millis>1543097303333</millis>
+  <sequence>6</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:08:23.333 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:08:23</date>
+  <millis>1543097303341</millis>
+  <sequence>7</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:08:23.341Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:08:27</date>
+  <millis>1543097307917</millis>
+  <sequence>8</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:08:27.917 Operation: Swap Course</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T17:08:59</date>
+  <millis>1543097339843</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:08:59.835 Operation: Drop Course</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T17:09:13</date>
+  <millis>1543097353585</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:09:13.577 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:09:13</date>
+  <millis>1543097353597</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:09:13.597Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:09:18</date>
+  <millis>1543097358189</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:09:18.189 Operation: Drop Course</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T17:09:48</date>
+  <millis>1543097388075</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:09:48.067 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:09:48</date>
+  <millis>1543097388085</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:09:48.085Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:09:55</date>
+  <millis>1543097395173</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:09:55.173 Operation: Enroll Course</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T17:18:02</date>
+  <millis>1543097882759</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:02.753 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:08</date>
+  <millis>1543097888478</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:08.478 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:10</date>
+  <millis>1543097890771</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:10.771 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:12</date>
+  <millis>1543097892273</millis>
+  <sequence>3</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:12.273 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:14</date>
+  <millis>1543097894179</millis>
+  <sequence>4</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:14.179 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:16</date>
+  <millis>1543097896421</millis>
+  <sequence>5</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:16.421 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:19</date>
+  <millis>1543097899512</millis>
+  <sequence>6</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:19.512 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:22</date>
+  <millis>1543097902867</millis>
+  <sequence>7</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:22.867Response from Server: Courses Swapped Successfully!</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:25</date>
+  <millis>1543097905291</millis>
+  <sequence>8</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:25.291 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:25</date>
+  <millis>1543097905295</millis>
+  <sequence>9</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:25.295Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:18:29</date>
+  <millis>1543097909397</millis>
+  <sequence>10</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:29.397 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:35</date>
+  <millis>1543097915426</millis>
+  <sequence>11</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:35.426Response from Server: Courses Swapped Successfully!</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:37</date>
+  <millis>1543097917794</millis>
+  <sequence>12</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:37.794 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:37</date>
+  <millis>1543097917802</millis>
+  <sequence>13</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:37.802Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:18:43</date>
+  <millis>1543097923009</millis>
+  <sequence>14</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:43.009 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:46</date>
+  <millis>1543097926964</millis>
+  <sequence>15</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:46.964Response from Server: You cannot enroll for more than 2 courses from other Department!</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:50</date>
+  <millis>1543097930317</millis>
+  <sequence>16</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:18:50.317 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:19:05</date>
+  <millis>1543097945418</millis>
+  <sequence>17</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:19:05.418Response from Server: You cannot enroll for more than 2 courses from other Department!</message>
+</record>
+<record>
+  <date>2018-11-24T17:19:17</date>
+  <millis>1543097957537</millis>
+  <sequence>18</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:19:17.537 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:19:17</date>
+  <millis>1543097957545</millis>
+  <sequence>19</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:19:17.545Response from Server: </message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T17:19:34</date>
+  <millis>1543097974456</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:19:34.452 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:19:34</date>
+  <millis>1543097974468</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:19:34.468Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:19:40</date>
+  <millis>1543097980523</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:19:40.523 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:19:45</date>
+  <millis>1543097985325</millis>
+  <sequence>3</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:19:45.325Response from Server: You cannot enroll for more than 2 courses from other Department!</message>
+</record>
+<record>
+  <date>2018-11-24T17:20:06</date>
+  <millis>1543098006895</millis>
+  <sequence>4</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:20:06.895 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:20:12</date>
+  <millis>1543098012215</millis>
+  <sequence>5</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:20:12.215Response from Server: Courses Swapped Successfully!</message>
+</record>
+<record>
+  <date>2018-11-24T17:20:15</date>
+  <millis>1543098015023</millis>
+  <sequence>6</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:20:15.023 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:20:15</date>
+  <millis>1543098015027</millis>
+  <sequence>7</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:20:15.027Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:20:19</date>
+  <millis>1543098019134</millis>
+  <sequence>8</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:20:19.134 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:20:24</date>
+  <millis>1543098024123</millis>
+  <sequence>9</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:20:24.123Response from Server: Courses Swapped Successfully!</message>
+</record>
+<record>
+  <date>2018-11-24T17:20:27</date>
+  <millis>1543098027047</millis>
+  <sequence>10</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:20:27.047 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:20:27</date>
+  <millis>1543098027051</millis>
+  <sequence>11</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:20:27.051Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:20:31</date>
+  <millis>1543098031154</millis>
+  <sequence>12</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:20:31.154 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:20:37</date>
+  <millis>1543098037458</millis>
+  <sequence>13</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:20:37.458Response from Server: Courses Swapped Successfully!</message>
+</record>
+<record>
+  <date>2018-11-24T17:20:38</date>
+  <millis>1543098038912</millis>
+  <sequence>14</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:20:38.912 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:20:38</date>
+  <millis>1543098038916</millis>
+  <sequence>15</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:20:38.916Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:20:43</date>
+  <millis>1543098043985</millis>
+  <sequence>16</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:20:43.985 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:20:47</date>
+  <millis>1543098047384</millis>
+  <sequence>17</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:20:47.384Response from Server: You cannot enroll for more than 2 courses from other Department!</message>
+</record>
+<record>
+  <date>2018-11-24T17:21:04</date>
+  <millis>1543098064768</millis>
+  <sequence>18</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:21:04.768 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:21:12</date>
+  <millis>1543098072983</millis>
+  <sequence>19</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:21:12.983Response from Server: You cannot enroll for more than 2 courses from other Department!</message>
+</record>
+<record>
+  <date>2018-11-24T17:23:18</date>
+  <millis>1543098198864</millis>
+  <sequence>20</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:23:18.864 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:23:22</date>
+  <millis>1543098202953</millis>
+  <sequence>21</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:23:22.953Response from Server: You cannot enroll for more than 2 courses from other Department!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T17:45:55</date>
+  <millis>1543099555786</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:45:55.778 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:45:57</date>
+  <millis>1543099557315</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:45:57.315 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:45:58</date>
+  <millis>1543099558746</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:45:58.746 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:00</date>
+  <millis>1543099560478</millis>
+  <sequence>3</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:00.478 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:03</date>
+  <millis>1543099563576</millis>
+  <sequence>4</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:03.576 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:05</date>
+  <millis>1543099565784</millis>
+  <sequence>5</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:05.784 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:08</date>
+  <millis>1543099568591</millis>
+  <sequence>6</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:08.591 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:08</date>
+  <millis>1543099568595</millis>
+  <sequence>7</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:08.595Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:46:11</date>
+  <millis>1543099571682</millis>
+  <sequence>8</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:11.682 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:13</date>
+  <millis>1543099573478</millis>
+  <sequence>9</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:13.478 Response from Server: You have already reached your limit for this term!</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:25</date>
+  <millis>1543099585616</millis>
+  <sequence>10</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:25.616 Operation: Drop Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:29</date>
+  <millis>1543099589918</millis>
+  <sequence>11</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>dropCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:29.918 Response from Server: Course Dropped</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:32</date>
+  <millis>1543099592344</millis>
+  <sequence>12</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:32.344 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:32</date>
+  <millis>1543099592348</millis>
+  <sequence>13</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:32.348Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:46:36</date>
+  <millis>1543099596151</millis>
+  <sequence>14</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:36.151 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:38</date>
+  <millis>1543099598450</millis>
+  <sequence>15</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:38.450 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:40</date>
+  <millis>1543099600169</millis>
+  <sequence>16</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:40.169 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:40</date>
+  <millis>1543099600171</millis>
+  <sequence>17</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:40.171Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:46:42</date>
+  <millis>1543099602726</millis>
+  <sequence>18</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:42.726 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:44</date>
+  <millis>1543099604483</millis>
+  <sequence>19</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:44.483 Response from Server: You have already reached your limit for this term!</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:51</date>
+  <millis>1543099611770</millis>
+  <sequence>20</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:51.770 Operation: Drop Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:53</date>
+  <millis>1543099613026</millis>
+  <sequence>21</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>dropCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:53.026 Response from Server: Course Dropped</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:54</date>
+  <millis>1543099614990</millis>
+  <sequence>22</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:54.990 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:55</date>
+  <millis>1543099615000</millis>
+  <sequence>23</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:55Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:46:57</date>
+  <millis>1543099617012</millis>
+  <sequence>24</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:57.012 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:59</date>
+  <millis>1543099619482</millis>
+  <sequence>25</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:46:59.482 Response from Server: You cannot enroll for more than 2 courses from other Department!</message>
+</record>
+<record>
+  <date>2018-11-24T17:47:02</date>
+  <millis>1543099622436</millis>
+  <sequence>26</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:47:02.436 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:47:05</date>
+  <millis>1543099625916</millis>
+  <sequence>27</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:47:05.916 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:47:07</date>
+  <millis>1543099627236</millis>
+  <sequence>28</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:47:07.236 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:47:07</date>
+  <millis>1543099627240</millis>
+  <sequence>29</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:47:07.240Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T17:47:11</date>
+  <millis>1543099631314</millis>
+  <sequence>30</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:47:11.314 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T17:47:18</date>
+  <millis>1543099638430</millis>
+  <sequence>31</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:47:18.430Response from Server: Courses Swapped Successfully!</message>
+</record>
+<record>
+  <date>2018-11-24T17:47:20</date>
+  <millis>1543099640365</millis>
+  <sequence>32</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:47:20.365 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T17:47:20</date>
+  <millis>1543099640370</millis>
+  <sequence>33</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T17:47:20.370Response from Server: </message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T18:48:03</date>
+  <millis>1543103283443</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:03.435 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:06</date>
+  <millis>1543103286025</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:06.025 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:08</date>
+  <millis>1543103288384</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:08.384 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:10</date>
+  <millis>1543103290197</millis>
+  <sequence>3</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:10.197 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:11</date>
+  <millis>1543103291843</millis>
+  <sequence>4</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:11.843 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:13</date>
+  <millis>1543103293481</millis>
+  <sequence>5</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:13.481 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:14</date>
+  <millis>1543103294914</millis>
+  <sequence>6</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:14.914 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:14</date>
+  <millis>1543103294919</millis>
+  <sequence>7</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:14.919Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T18:48:17</date>
+  <millis>1543103297444</millis>
+  <sequence>8</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:17.444 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:19</date>
+  <millis>1543103299037</millis>
+  <sequence>9</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:19.037 Response from Server: You have already reached your limit for this term!</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:23</date>
+  <millis>1543103303356</millis>
+  <sequence>10</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:23.356 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:24</date>
+  <millis>1543103304741</millis>
+  <sequence>11</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:24.741 Response from Server: The course is full!</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:28</date>
+  <millis>1543103308283</millis>
+  <sequence>12</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:28.283 Operation: Drop Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:30</date>
+  <millis>1543103310086</millis>
+  <sequence>13</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>dropCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:30.086 Response from Server: Course Dropped</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:31</date>
+  <millis>1543103311308</millis>
+  <sequence>14</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:31.308 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:31</date>
+  <millis>1543103311315</millis>
+  <sequence>15</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:31.315Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T18:48:34</date>
+  <millis>1543103314273</millis>
+  <sequence>16</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:34.272 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:36</date>
+  <millis>1543103316702</millis>
+  <sequence>17</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:36.702 Response from Server: You cannot enroll for more than 2 courses from other Department!</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:39</date>
+  <millis>1543103319901</millis>
+  <sequence>18</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:39.901 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:47</date>
+  <millis>1543103327525</millis>
+  <sequence>19</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:47.525Response from Server: Courses Swapped Successfully!</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:49</date>
+  <millis>1543103329536</millis>
+  <sequence>20</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:49.536 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:49</date>
+  <millis>1543103329542</millis>
+  <sequence>21</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:49.542Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T18:48:53</date>
+  <millis>1543103333436</millis>
+  <sequence>22</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:53.436 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:55</date>
+  <millis>1543103335398</millis>
+  <sequence>23</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:55.398 Response from Server: You cannot enroll for more than 2 courses from other Department!</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:57</date>
+  <millis>1543103337231</millis>
+  <sequence>24</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:48:57.231 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:00</date>
+  <millis>1543103340096</millis>
+  <sequence>25</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:00.096 Response from Server: You cannot enroll for more than 2 courses from other Department!</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:01</date>
+  <millis>1543103341853</millis>
+  <sequence>26</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:01.853 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:03</date>
+  <millis>1543103343301</millis>
+  <sequence>27</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:03.301 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:04</date>
+  <millis>1543103344946</millis>
+  <sequence>28</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:04.945 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:04</date>
+  <millis>1543103344951</millis>
+  <sequence>29</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:04.951Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T18:49:10</date>
+  <millis>1543103350234</millis>
+  <sequence>30</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:10.234 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:21</date>
+  <millis>1543103361175</millis>
+  <sequence>31</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:21.175Response from Server: You cannot enroll for more than 2 courses from other Department!</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:23</date>
+  <millis>1543103363124</millis>
+  <sequence>32</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:23.124 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:23</date>
+  <millis>1543103363129</millis>
+  <sequence>33</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:23.129Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T18:49:26</date>
+  <millis>1543103366548</millis>
+  <sequence>34</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:26.548 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:31</date>
+  <millis>1543103371079</millis>
+  <sequence>35</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:31.079Response from Server: Courses Swapped Successfully!</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:32</date>
+  <millis>1543103372778</millis>
+  <sequence>36</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:32.778 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:32</date>
+  <millis>1543103372782</millis>
+  <sequence>37</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:32.782Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T18:49:37</date>
+  <millis>1543103377645</millis>
+  <sequence>38</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:37.645 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:43</date>
+  <millis>1543103383212</millis>
+  <sequence>39</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:43.212Response from Server: Courses Swapped Successfully!</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:44</date>
+  <millis>1543103384755</millis>
+  <sequence>40</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:44.755 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:44</date>
+  <millis>1543103384760</millis>
+  <sequence>41</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:44.760Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T18:49:47</date>
+  <millis>1543103387929</millis>
+  <sequence>42</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:47.929 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:51</date>
+  <millis>1543103391463</millis>
+  <sequence>43</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:51.463Response from Server: You cannot enroll for more than 2 courses from other Department!</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:57</date>
+  <millis>1543103397277</millis>
+  <sequence>44</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:49:57.276 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:50:10</date>
+  <millis>1543103410831</millis>
+  <sequence>45</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:50:10.831Response from Server: You have already enrolled for this course!</message>
+</record>
+<record>
+  <date>2018-11-24T18:50:13</date>
+  <millis>1543103413803</millis>
+  <sequence>46</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:50:13.803 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T18:50:13</date>
+  <millis>1543103413808</millis>
+  <sequence>47</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:50:13.808Response from Server: </message>
+</record>
+<record>
+  <date>2018-11-24T18:50:17</date>
+  <millis>1543103417656</millis>
+  <sequence>48</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:50:17.656 Operation: Swap Course</message>
+</record>
+<record>
+  <date>2018-11-24T18:50:24</date>
+  <millis>1543103424264</millis>
+  <sequence>49</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>swapCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:50:24.264Response from Server: Courses Swapped Successfully!</message>
+</record>
+<record>
+  <date>2018-11-24T18:50:25</date>
+  <millis>1543103425925</millis>
+  <sequence>50</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:50:25.925 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T18:50:25</date>
+  <millis>1543103425930</millis>
+  <sequence>51</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T18:50:25.930Response from Server: </message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:05:52</date>
+  <millis>1543104352815</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:05:52.808 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T19:05:58</date>
+  <millis>1543104358972</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:05:58.972 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T19:06:20</date>
+  <millis>1543104380446</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:06:20.446 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T19:06:20</date>
+  <millis>1543104380454</millis>
+  <sequence>3</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:06:20.454Response from Server: </message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:07:03</date>
+  <millis>1543104423105</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:07:03.098 Operation: Swap Course(MultiThreaded)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:10:08</date>
+  <millis>1543104608466</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:10:08.459 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T19:10:08</date>
+  <millis>1543104608480</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:10:08.480Response from Server: </message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:13:52</date>
+  <millis>1543104832091</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:13:52.084 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T19:13:56</date>
+  <millis>1543104836477</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:13:56.477 Response from Server: Successfully enrolled!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:14:34</date>
+  <millis>1543104874900</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:14:34.893 Operation: Swap Course(MultiThreaded)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:20:32</date>
+  <millis>1543105232681</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:20:32.668 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T19:20:49</date>
+  <millis>1543105249887</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:20:49.887 Response from Server: Successfully enrolled!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:24:18</date>
+  <millis>1543105458735</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:24:18.727 Operation: Swap Course(MultiThreaded)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:28:54</date>
+  <millis>1543105734181</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:28:54.176 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T19:28:56</date>
+  <millis>1543105736894</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:28:56.893 Response from Server: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T19:29:00</date>
+  <millis>1543105740245</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:29:00.245 Operation: Enroll Course</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:31:59</date>
+  <millis>1543105919896</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:31:59.889 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T19:31:59</date>
+  <millis>1543105919907</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:31:59.907Response from Server: </message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:50:53</date>
+  <millis>1543107053488</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:50:53.481 Operation: Swap Course(MultiThreaded)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:52:35</date>
+  <millis>1543107155469</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T19:52:35.469 Operation: Swap Course(MultiThreaded)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T20:23:18</date>
+  <millis>1543108998906</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T20:23:18.887 Operation: Swap Course(MultiThreaded)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T20:42:03</date>
+  <millis>1543110123928</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T20:42:03.912 Operation: Swap Course(MultiThreaded)</message>
+</record>
+<record>
+  <date>2018-11-24T20:43:34</date>
+  <millis>1543110214434</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T20:43:34.434 Operation: Swap Course(MultiThreaded)</message>
+</record>
+<record>
+  <date>2018-11-24T20:43:51</date>
+  <millis>1543110231089</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPS1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T20:43:51.089 Operation: Swap Course(MultiThreaded)</message>
+</record>
+</log>

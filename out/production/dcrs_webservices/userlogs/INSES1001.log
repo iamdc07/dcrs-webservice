@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T16:48:23</date>
+  <millis>1543096103722</millis>
+  <sequence>0</sequence>
+  <logger>User Id: INSES1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T16:48:23.713 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-24T16:48:27</date>
+  <millis>1543096107979</millis>
+  <sequence>1</sequence>
+  <logger>User Id: INSES1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-24T16:48:27.979 Response from Server: The course is full!</message>
+</record>
+<record>
+  <date>2018-11-24T16:48:30</date>
+  <millis>1543096110954</millis>
+  <sequence>2</sequence>
+  <logger>User Id: INSES1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-24T16:48:30.954 Operation: Get Class Schedule</message>
+</record>
+<record>
+  <date>2018-11-24T16:48:30</date>
+  <millis>1543096110962</millis>
+  <sequence>3</sequence>
+  <logger>User Id: INSES1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>getClassSchedule</method>
+  <thread>1</thread>
+  <message>2018-11-24T16:48:30.962Response from Server: </message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>

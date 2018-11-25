@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T13:31:34</date>
+  <millis>1543084294579</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T13:48:40</date>
+  <millis>1543085320326</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+<record>
+  <date>2018-11-24T13:50:40</date>
+  <millis>1543085440253</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T13:50:40.238 | Request type: Add Course | Request Parameters: INSEA1001, INSE1001, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T13:50:52</date>
+  <millis>1543085452386</millis>
+  <sequence>2</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T13:50:52.386 | Request type: Add Course | Request Parameters: INSEA1001, INSE1002, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T13:50:57</date>
+  <millis>1543085457028</millis>
+  <sequence>3</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T13:50:57.028 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@793a7d6</message>
+</record>
+<record>
+  <date>2018-11-24T13:51:10</date>
+  <millis>1543085470171</millis>
+  <sequence>4</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>removeCourse</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T13:51:10.171 | Request type: Remove Course | Request Parameters: INSEA1001, INSE1003, winter | Request Failed | Server Response: Course doesn't exist!</message>
+</record>
+<record>
+  <date>2018-11-24T13:51:15</date>
+  <millis>1543085475766</millis>
+  <sequence>5</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>removeCourse</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T13:51:15.766 | Request type: Remove Course | Request Parameters: INSEA1001, INSE1002, winter | Request Completed | Server Response: Course Successfully Removed</message>
+</record>
+<record>
+  <date>2018-11-24T13:51:19</date>
+  <millis>1543085479676</millis>
+  <sequence>6</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T13:51:19.676 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@6755e4e8</message>
+</record>
+<record>
+  <date>2018-11-24T13:51:46</date>
+  <millis>1543085506204</millis>
+  <sequence>7</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>17</thread>
+  <message>Date &amp; Time: 2018-11-24T13:51:46.204 | Request type: Enroll Course | Request Parameters: COMPS1001, INSE1001, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T13:51:53</date>
+  <millis>1543085513088</millis>
+  <sequence>8</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>18</thread>
+  <message>Date &amp; Time: 2018-11-24T13:51:53.088 | Request type: Enroll Course | Request Parameters: COMPS1001, INSE1002, winter | Request Failed | Server Response: Could not find the course!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T16:41:51</date>
+  <millis>1543095711586</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+<record>
+  <date>2018-11-24T16:45:44</date>
+  <millis>1543095944710</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T16:45:44.702 | Request type: Add Course | Request Parameters: INSEA1001, INSE6320, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T16:45:52</date>
+  <millis>1543095952229</millis>
+  <sequence>2</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T16:45:52.229 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@128e1027</message>
+</record>
+<record>
+  <date>2018-11-24T16:46:21</date>
+  <millis>1543095981657</millis>
+  <sequence>3</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>15</thread>
+  <message>Date &amp; Time: 2018-11-24T16:46:21.657 | Request type: Enroll Course | Request Parameters: SOENS1001, INSE6320, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T16:48:27</date>
+  <millis>1543096107975</millis>
+  <sequence>4</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enrollChecks</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T16:48:27.975 | Request type: Enroll Course | Request Parameters: INSES1001, INSE6320, winter | Request Failed | Server Response: The course is full!</message>
+</record>
+<record>
+  <date>2018-11-24T16:48:30</date>
+  <millis>1543096110958</millis>
+  <sequence>5</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>getClassSchedule</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T16:48:30.958 | Request type: Get Class Schedule | Request Parameters: INSES1001 | Request Failed | Server Response: </message>
+</record>
+<record>
+  <date>2018-11-24T16:49:06</date>
+  <millis>1543096146941</millis>
+  <sequence>6</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T16:49:06.941 | Request type: List Course Availability | Request Parameters: INSEA1001, inse6320 | Request Completed | Server Response: [Ljava.lang.String;@47a59733</message>
+</record>
+<record>
+  <date>2018-11-24T16:49:13</date>
+  <millis>1543096153122</millis>
+  <sequence>7</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T16:49:13.122 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@5b7ce91f</message>
+</record>
+<record>
+  <date>2018-11-24T16:49:20</date>
+  <millis>1543096160074</millis>
+  <sequence>8</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>removeCourse</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T16:49:20.074 | Request type: Remove Course | Request Parameters: INSEA1001, INSE6320, winter | Request Completed | Server Response: Course Successfully Removed</message>
+</record>
+<record>
+  <date>2018-11-24T16:49:22</date>
+  <millis>1543096162676</millis>
+  <sequence>9</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T16:49:22.676 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@2fb4fe28</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T16:50:18</date>
+  <millis>1543096218716</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+<record>
+  <date>2018-11-24T16:51:18</date>
+  <millis>1543096278802</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T16:51:18.794 | Request type: Add Course | Request Parameters: INSEA1001, INSE1001, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T16:51:31</date>
+  <millis>1543096291662</millis>
+  <sequence>2</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T16:51:31.662 | Request type: Add Course | Request Parameters: INSEA1001, INSE1002, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T16:51:34</date>
+  <millis>1543096294098</millis>
+  <sequence>3</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T16:51:34.098 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@f61c7c3</message>
+</record>
+<record>
+  <date>2018-11-24T17:02:46</date>
+  <millis>1543096966471</millis>
+  <sequence>4</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>15</thread>
+  <message>Date &amp; Time: 2018-11-24T17:02:46.471 | Request type: Enroll Course | Request Parameters: COMPS1001, INSE1001, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:04:11</date>
+  <millis>1543097051813</millis>
+  <sequence>5</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T17:04:11.813 | Request type: Enroll Course | Request Parameters: COMPS1001, INSE1002, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:04:11</date>
+  <millis>1543097051817</millis>
+  <sequence>6</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>dropCourse</method>
+  <thread>17</thread>
+  <message>Date &amp; Time: 2018-11-24T17:04:11.817 | Request type: Drop Course | Request Parameters: COMPS1001, INSE1001, winter | Request Completed  | Server Response: Course Dropped</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T17:06:32</date>
+  <millis>1543097192986</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+<record>
+  <date>2018-11-24T17:07:47</date>
+  <millis>1543097267262</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T17:07:47.254 | Request type: Add Course | Request Parameters: INSEA1001, INSE1001, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T17:07:52</date>
+  <millis>1543097272541</millis>
+  <sequence>2</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T17:07:52.541 | Request type: Add Course | Request Parameters: INSEA1001, INSE1002, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T17:07:58</date>
+  <millis>1543097278121</millis>
+  <sequence>3</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T17:07:58.121 | Request type: Add Course | Request Parameters: INSEA1001, INSE1003, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T17:08:21</date>
+  <millis>1543097301363</millis>
+  <sequence>4</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>15</thread>
+  <message>Date &amp; Time: 2018-11-24T17:08:21.363 | Request type: Enroll Course | Request Parameters: COMPS1001, INSE1001, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:10:21</date>
+  <millis>1543097421752</millis>
+  <sequence>5</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T17:10:21.752 | Request type: Enroll Course | Request Parameters: SOENS1001, INSE1002, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T17:16:16</date>
+  <millis>1543097776436</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+<record>
+  <date>2018-11-24T17:17:41</date>
+  <millis>1543097861210</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T17:17:41.202 | Request type: Add Course | Request Parameters: INSEA1001, INSE1001, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T17:17:46</date>
+  <millis>1543097866293</millis>
+  <sequence>2</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T17:17:46.293 | Request type: Add Course | Request Parameters: INSEA1001, INSE1002, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T17:17:51</date>
+  <millis>1543097871744</millis>
+  <sequence>3</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T17:17:51.744 | Request type: Add Course | Request Parameters: INSEA1001, INSE1003, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T17:17:53</date>
+  <millis>1543097873757</millis>
+  <sequence>4</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T17:17:53.757 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@774255c7</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:16</date>
+  <millis>1543097896417</millis>
+  <sequence>5</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>17</thread>
+  <message>Date &amp; Time: 2018-11-24T17:18:16.417 | Request type: Enroll Course | Request Parameters: COMPS1001, INSE1001, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:18:35</date>
+  <millis>1543097915414</millis>
+  <sequence>6</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>18</thread>
+  <message>Date &amp; Time: 2018-11-24T17:18:35.414 | Request type: Enroll Course | Request Parameters: COMPS1001, INSE1003, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:20:12</date>
+  <millis>1543098012205</millis>
+  <sequence>7</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>dropCourse</method>
+  <thread>19</thread>
+  <message>Date &amp; Time: 2018-11-24T17:20:12.205 | Request type: Drop Course | Request Parameters: COMPS1001, INSE1001, winter | Request Completed  | Server Response: Course Dropped</message>
+</record>
+<record>
+  <date>2018-11-24T17:20:24</date>
+  <millis>1543098024115</millis>
+  <sequence>8</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>dropCourse</method>
+  <thread>20</thread>
+  <message>Date &amp; Time: 2018-11-24T17:20:24.115 | Request type: Drop Course | Request Parameters: COMPS1001, INSE1003, winter | Request Completed  | Server Response: Course Dropped</message>
+</record>
+<record>
+  <date>2018-11-24T17:20:37</date>
+  <millis>1543098037446</millis>
+  <sequence>9</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>21</thread>
+  <message>Date &amp; Time: 2018-11-24T17:20:37.446 | Request type: Enroll Course | Request Parameters: COMPS1001, INSE1001, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T17:44:25</date>
+  <millis>1543099465805</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+<record>
+  <date>2018-11-24T17:45:29</date>
+  <millis>1543099529084</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>15</thread>
+  <message>Date &amp; Time: 2018-11-24T17:45:29.076 | Request type: Add Course | Request Parameters: INSEA1001, INSE1001, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T17:45:37</date>
+  <millis>1543099537954</millis>
+  <sequence>2</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>15</thread>
+  <message>Date &amp; Time: 2018-11-24T17:45:37.954 | Request type: Add Course | Request Parameters: INSEA1001, INSE1002, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T17:45:43</date>
+  <millis>1543099543702</millis>
+  <sequence>3</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>15</thread>
+  <message>Date &amp; Time: 2018-11-24T17:45:43.702 | Request type: Add Course | Request Parameters: INSEA1001, INSE1003, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T17:45:45</date>
+  <millis>1543099545368</millis>
+  <sequence>4</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>15</thread>
+  <message>Date &amp; Time: 2018-11-24T17:45:45.368 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@42299cc7</message>
+</record>
+<record>
+  <date>2018-11-24T17:46:05</date>
+  <millis>1543099565780</millis>
+  <sequence>5</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T17:46:05.780 | Request type: Enroll Course | Request Parameters: COMPS1001, INSE1001, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T17:47:18</date>
+  <millis>1543099638418</millis>
+  <sequence>6</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>17</thread>
+  <message>Date &amp; Time: 2018-11-24T17:47:18.418 | Request type: Enroll Course | Request Parameters: COMPS1001, INSE1002, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T18:46:29</date>
+  <millis>1543103189826</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+<record>
+  <date>2018-11-24T18:47:39</date>
+  <millis>1543103259375</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T18:47:39.367 | Request type: Add Course | Request Parameters: INSEA1001, INSE1001, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T18:47:43</date>
+  <millis>1543103263798</millis>
+  <sequence>2</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T18:47:43.798 | Request type: Add Course | Request Parameters: INSEA1001, INSE1002, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T18:47:51</date>
+  <millis>1543103271038</millis>
+  <sequence>3</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T18:47:51.038 | Request type: Add Course | Request Parameters: INSEA1001, INSE1003, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T18:47:52</date>
+  <millis>1543103272843</millis>
+  <sequence>4</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T18:47:52.842 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@73c2a80d</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:13</date>
+  <millis>1543103293476</millis>
+  <sequence>5</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>15</thread>
+  <message>Date &amp; Time: 2018-11-24T18:48:13.476 | Request type: Enroll Course | Request Parameters: COMPS1001, INSE1001, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T18:48:47</date>
+  <millis>1543103327520</millis>
+  <sequence>6</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>dropCourse</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T18:48:47.520 | Request type: Drop Course | Request Parameters: COMPS1001, INSE1001, winter | Request Completed  | Server Response: Course Dropped</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:31</date>
+  <millis>1543103371068</millis>
+  <sequence>7</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>17</thread>
+  <message>Date &amp; Time: 2018-11-24T18:49:31.068 | Request type: Enroll Course | Request Parameters: COMPS1001, INSE1001, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T18:49:43</date>
+  <millis>1543103383208</millis>
+  <sequence>8</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>dropCourse</method>
+  <thread>18</thread>
+  <message>Date &amp; Time: 2018-11-24T18:49:43.207 | Request type: Drop Course | Request Parameters: COMPS1001, INSE1001, winter | Request Completed  | Server Response: Course Dropped</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:04:11</date>
+  <millis>1543104251171</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+<record>
+  <date>2018-11-24T19:05:27</date>
+  <millis>1543104327260</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T19:05:27.253 | Request type: Add Course | Request Parameters: INSEA1001, INSE1002, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T19:05:30</date>
+  <millis>1543104330374</millis>
+  <sequence>2</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T19:05:30.373 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@97c9e83</message>
+</record>
+<record>
+  <date>2018-11-24T19:05:41</date>
+  <millis>1543104341471</millis>
+  <sequence>3</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T19:05:41.471 | Request type: Add Course | Request Parameters: INSEA1001, INSE1001, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T19:05:43</date>
+  <millis>1543104343680</millis>
+  <sequence>4</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T19:05:43.680 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@2b902f5b</message>
+</record>
+<record>
+  <date>2018-11-24T19:06:46</date>
+  <millis>1543104406804</millis>
+  <sequence>5</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>15</thread>
+  <message>Date &amp; Time: 2018-11-24T19:06:46.804 | Request type: Enroll Course | Request Parameters: COMPS1002, INSE1001, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:12:47</date>
+  <millis>1543104767394</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+<record>
+  <date>2018-11-24T19:13:40</date>
+  <millis>1543104820073</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T19:13:40.066 | Request type: Add Course | Request Parameters: INSEA1001, INSE1001, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T19:13:43</date>
+  <millis>1543104823238</millis>
+  <sequence>2</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T19:13:43.238 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@6b1ea4f5</message>
+</record>
+<record>
+  <date>2018-11-24T19:14:19</date>
+  <millis>1543104859330</millis>
+  <sequence>3</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>15</thread>
+  <message>Date &amp; Time: 2018-11-24T19:14:19.330 | Request type: Enroll Course | Request Parameters: COMPS1002, INSE1001, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:19:39</date>
+  <millis>1543105179982</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+<record>
+  <date>2018-11-24T19:20:23</date>
+  <millis>1543105223587</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T19:20:23.581 | Request type: Add Course | Request Parameters: INSEA1001, INSE1001, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T19:20:25</date>
+  <millis>1543105225388</millis>
+  <sequence>2</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T19:20:25.388 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@6b1ea4f5</message>
+</record>
+<record>
+  <date>2018-11-24T19:24:03</date>
+  <millis>1543105443891</millis>
+  <sequence>3</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>15</thread>
+  <message>Date &amp; Time: 2018-11-24T19:24:03.891 | Request type: Enroll Course | Request Parameters: COMPS1002, INSE1001, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:26:45</date>
+  <millis>1543105605308</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+<record>
+  <date>2018-11-24T19:28:34</date>
+  <millis>1543105714897</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T19:28:34.890 | Request type: Add Course | Request Parameters: INSEA1001, INSE1001, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T19:28:37</date>
+  <millis>1543105717269</millis>
+  <sequence>2</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T19:28:37.269 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@6b1ea4f5</message>
+</record>
+<record>
+  <date>2018-11-24T19:29:20</date>
+  <millis>1543105760456</millis>
+  <sequence>3</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>15</thread>
+  <message>Date &amp; Time: 2018-11-24T19:29:20.456 | Request type: Enroll Course | Request Parameters: COMPS1002, INSE1001, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T19:29:35</date>
+  <millis>1543105775585</millis>
+  <sequence>4</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>dropCourse</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T19:29:35.585 | Request type: Drop Course | Request Parameters: COMPS1002, INSE1001, winter | Request Completed  | Server Response: Course Dropped</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:50:38</date>
+  <millis>1543107038268</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+<record>
+  <date>2018-11-24T19:50:53</date>
+  <millis>1543107053573</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T19:50:53.557 | Request type: Enroll Course | Request Parameters: COMPS1002, INSE1001, winter | Request Failed | Server Response: Could not find the course!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T19:51:32</date>
+  <millis>1543107092972</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+<record>
+  <date>2018-11-24T19:52:26</date>
+  <millis>1543107146975</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T19:52:26.959 | Request type: Add Course | Request Parameters: INSEA1001, INSE1001, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T19:52:29</date>
+  <millis>1543107149267</millis>
+  <sequence>2</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T19:52:29.267 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@6b1ea4f5</message>
+</record>
+<record>
+  <date>2018-11-24T19:52:35</date>
+  <millis>1543107155500</millis>
+  <sequence>3</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>15</thread>
+  <message>Date &amp; Time: 2018-11-24T19:52:35.500 | Request type: Enroll Course | Request Parameters: COMPS1002, INSE1001, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T20:21:11</date>
+  <millis>1543108871199</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+<record>
+  <date>2018-11-24T20:23:12</date>
+  <millis>1543108992192</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T20:23:12.176 | Request type: Add Course | Request Parameters: INSEA1001, INSE1001, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T20:23:18</date>
+  <millis>1543108998947</millis>
+  <sequence>2</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>15</thread>
+  <message>Date &amp; Time: 2018-11-24T20:23:18.947 | Request type: Enroll Course | Request Parameters: COMPS1002, INSE1001, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+<record>
+  <date>2018-11-24T20:23:18</date>
+  <millis>1543108998982</millis>
+  <sequence>3</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>dropCourse</method>
+  <thread>16</thread>
+  <message>Date &amp; Time: 2018-11-24T20:23:18.982 | Request type: Drop Course | Request Parameters: COMPS1002, INSE1001, winter | Request Completed  | Server Response: Course Dropped</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-24T20:41:07</date>
+  <millis>1543110067418</millis>
+  <sequence>0</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>The UDP server for INSE is up and running on port 6793</message>
+</record>
+<record>
+  <date>2018-11-24T20:41:53</date>
+  <millis>1543110113700</millis>
+  <sequence>1</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>addCourse</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T20:41:53.684 | Request type: Add Course | Request Parameters: INSEA1001, INSE1001, winter | Request Completed | Server Response: Course Successfully Added</message>
+</record>
+<record>
+  <date>2018-11-24T20:41:56</date>
+  <millis>1543110116197</millis>
+  <sequence>2</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>14</thread>
+  <message>Date &amp; Time: 2018-11-24T20:41:56.197 | Request type: List Course Availability | Request Parameters: INSEA1001, winter | Request Completed | Server Response: [Ljava.lang.String;@227203ab</message>
+</record>
+<record>
+  <date>2018-11-24T20:42:03</date>
+  <millis>1543110123956</millis>
+  <sequence>3</sequence>
+  <logger>INSE Server</logger>
+  <level>INFO</level>
+  <class>server.ServerOperations</class>
+  <method>enroll</method>
+  <thread>15</thread>
+  <message>Date &amp; Time: 2018-11-24T20:42:03.956 | Request type: Enroll Course | Request Parameters: COMPS1002, INSE1001, winter | Request Succesfully Completed | Server Response: Successfully enrolled!</message>
+</record>
+</log>
