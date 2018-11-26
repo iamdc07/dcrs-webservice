@@ -50,3 +50,55 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 </log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-25T20:39:22</date>
+  <millis>1543196362904</millis>
+  <sequence>0</sequence>
+  <logger>User Id: INSES1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:39:22.888 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-25T20:39:25</date>
+  <millis>1543196365333</millis>
+  <sequence>1</sequence>
+  <logger>User Id: INSES1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:39:25.333 Response from Server: The course is full!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-25T20:58:50</date>
+  <millis>1543197530330</millis>
+  <sequence>0</sequence>
+  <logger>User Id: INSES1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:58:50.315 Operation: Enroll Course</message>
+</record>
+<record>
+  <date>2018-11-25T20:58:52</date>
+  <millis>1543197532948</millis>
+  <sequence>1</sequence>
+  <logger>User Id: INSES1001</logger>
+  <level>INFO</level>
+  <class>student.StudentOperations</class>
+  <method>enrollCourse</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:58:52.948 Response from Server: The course is full!</message>
+</record>
+</log>

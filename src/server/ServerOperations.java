@@ -162,6 +162,8 @@ public class ServerOperations implements ServerInterface {
                     return checkMessage;
                 case "You cannot enroll for more than 2 courses from other Department!":
                     return checkMessage;
+                case "No courses found":
+                    return checkMessage;
                 case "No errors":
                     break;
             }
@@ -442,7 +444,9 @@ public class ServerOperations implements ServerInterface {
         HashMap<String, List<String>> courseMap = this.studentlist.get(studentId);
         String course = "";
 
-        if (!(courseMap.isEmpty())) {
+        if (courseMap == null) {
+            return "No courses found";
+        } else if (!(courseMap.isEmpty())) {
             for (Map.Entry<String, List<String>> theTerm : courseMap.entrySet()) {
                 String termName = theTerm.getKey();
                 List<String> coursesList = theTerm.getValue();
@@ -465,6 +469,7 @@ public class ServerOperations implements ServerInterface {
                     + " | Request Parameters: " + studentId + " | Request Failed" + " | Server Response: " + course);
             return course;
         }
+
     }
 
 
@@ -496,6 +501,8 @@ public class ServerOperations implements ServerInterface {
             case "You have already reached your limit for this term!":
                 return checkUdpValue;
             case "You have already enrolled for this course!":
+                return checkUdpValue;
+            case "No courses found":
                 return checkUdpValue;
             case "No errors":
                 break;
@@ -683,34 +690,38 @@ public class ServerOperations implements ServerInterface {
 
         List<String> termCourses = courses.get(term);
         int crossEnrollLimit = 0;
-        if (termCourses.size() == 3 && !swapOp) {
-            logs.info("Date & Time: " + LocalDateTime.now() + " | Request type: Enroll Course"
-                    + " | Request Parameters: " + studentId + ", " + courseId + ", " + term
-                    + " | Request Failed"
-                    + " | Server Response: You have already reached your limit for this term!");
-            return "You have already reached your limit for this term!";
-        }
+        if (courses != null && termCourses != null) {
+            if (termCourses.size() == 3 && !swapOp) {
+                logs.info("Date & Time: " + LocalDateTime.now() + " | Request type: Enroll Course"
+                        + " | Request Parameters: " + studentId + ", " + courseId + ", " + term
+                        + " | Request Failed"
+                        + " | Server Response: You have already reached your limit for this term!");
+                return "You have already reached your limit for this term!";
+            }
 
-        for (String str : termCourses) {
-            if (!(str.substring(0, 4).equalsIgnoreCase(dept))) {
-                crossEnrollLimit++;
+            for (String str : termCourses) {
+                if (!(str.substring(0, 4).equalsIgnoreCase(dept))) {
+                    crossEnrollLimit++;
+                    if (str.equals(courseId)) {
+                        return "You have already enrolled for this course!";
+                    }
+                }
                 if (str.equals(courseId)) {
                     return "You have already enrolled for this course!";
                 }
             }
-            if (str.equals(courseId)) {
-                return "You have already enrolled for this course!";
+            if (crossEnrollLimit == 2) {
+                if (checkCrossEnroll) {
+                    logs.info("Date & Time: " + LocalDateTime.now() + " | Request type: Enroll Course"
+                            + " | Request Parameters: " + studentId + ", " + courseId + ", " + term + " | Request Failed"
+                            + " | Server Response: You cannot enroll for more than 2 courses from other Department!");
+                    return "You cannot enroll for more than 2 courses from other Department!";
+                }
             }
+            return "No errors";
+        } else {
+            return "No courses found";
         }
-        if (crossEnrollLimit == 2) {
-            if (checkCrossEnroll) {
-                logs.info("Date & Time: " + LocalDateTime.now() + " | Request type: Enroll Course"
-                        + " | Request Parameters: " + studentId + ", " + courseId + ", " + term + " | Request Failed"
-                        + " | Server Response: You cannot enroll for more than 2 courses from other Department!");
-                return "You cannot enroll for more than 2 courses from other Department!";
-            }
-        }
-        return "No errors";
     }
 
     private Object udpCall(String dept) {

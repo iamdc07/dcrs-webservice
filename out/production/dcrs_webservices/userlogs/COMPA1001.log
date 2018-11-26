@@ -999,3 +999,215 @@
 </message>
 </record>
 </log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-25T20:35:36</date>
+  <millis>1543196136779</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:35:36.764 Operation: Add Course
+</message>
+</record>
+<record>
+  <date>2018-11-25T20:35:41</date>
+  <millis>1543196141339</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>advisor.AdvisorOperations</class>
+  <method>add_Course</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:35:41.339Response from Server: Success</message>
+</record>
+<record>
+  <date>2018-11-25T20:35:42</date>
+  <millis>1543196142575</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:35:42.575 Operation: Add Course
+</message>
+</record>
+<record>
+  <date>2018-11-25T20:35:44</date>
+  <millis>1543196144855</millis>
+  <sequence>3</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>advisor.AdvisorOperations</class>
+  <method>add_Course</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:35:44.855Response from Server: Success</message>
+</record>
+<record>
+  <date>2018-11-25T20:35:46</date>
+  <millis>1543196146012</millis>
+  <sequence>4</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:35:46.012 Operation: Add Course
+</message>
+</record>
+<record>
+  <date>2018-11-25T20:35:51</date>
+  <millis>1543196151811</millis>
+  <sequence>5</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>advisor.AdvisorOperations</class>
+  <method>add_Course</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:35:51.811Response from Server: Success</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-25T20:37:25</date>
+  <millis>1543196245552</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:37:25.536 Operation: List Course Availability
+</message>
+</record>
+<record>
+  <date>2018-11-25T20:37:25</date>
+  <millis>1543196245677</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>advisor.AdvisorOperations</class>
+  <method>listCourseAvailability</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:37:25.677Response from Server: </message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-25T20:54:58</date>
+  <millis>1543197298419</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:54:58.419 Operation: Add Course
+</message>
+</record>
+<record>
+  <date>2018-11-25T20:55:01</date>
+  <millis>1543197301548</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>advisor.AdvisorOperations</class>
+  <method>add_Course</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:55:01.548Response from Server: Success</message>
+</record>
+<record>
+  <date>2018-11-25T20:55:02</date>
+  <millis>1543197302748</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:55:02.748 Operation: Add Course
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-25T20:57:07</date>
+  <millis>1543197427281</millis>
+  <sequence>0</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:57:07.265 Operation: Add Course
+</message>
+</record>
+<record>
+  <date>2018-11-25T20:57:09</date>
+  <millis>1543197429172</millis>
+  <sequence>1</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>advisor.AdvisorOperations</class>
+  <method>add_Course</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:57:09.172Response from Server: Success</message>
+</record>
+<record>
+  <date>2018-11-25T20:57:10</date>
+  <millis>1543197430141</millis>
+  <sequence>2</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:57:10.141 Operation: Add Course
+</message>
+</record>
+<record>
+  <date>2018-11-25T20:57:12</date>
+  <millis>1543197432176</millis>
+  <sequence>3</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>advisor.AdvisorOperations</class>
+  <method>add_Course</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:57:12.176Response from Server: Success</message>
+</record>
+<record>
+  <date>2018-11-25T20:57:14</date>
+  <millis>1543197434581</millis>
+  <sequence>4</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>client.Client</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:57:14.581 Operation: Add Course
+</message>
+</record>
+<record>
+  <date>2018-11-25T20:57:17</date>
+  <millis>1543197437689</millis>
+  <sequence>5</sequence>
+  <logger>User Id: COMPA1001</logger>
+  <level>INFO</level>
+  <class>advisor.AdvisorOperations</class>
+  <method>add_Course</method>
+  <thread>1</thread>
+  <message>2018-11-25T20:57:17.689Response from Server: Success</message>
+</record>
+</log>

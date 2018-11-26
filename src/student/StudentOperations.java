@@ -37,16 +37,21 @@ public class StudentOperations {
         int counter = 0;
 
         String courseList = server.getClassSchedule(student_id);
-        System.out.println("All the courses enrolled by " + student_id);
 
-        if (courseList != null && courseList != "") {
-            String[] eachTerm = courseList.split(",");
-            for (String item : eachTerm) {
-                String[] termsCourses = eachTerm[counter++].split(";");
-                System.out.print("Term: ");
-                for (String elements : termsCourses) {
-                    System.out.print(elements);
-                    System.out.println("\t");
+        if (courseList.equalsIgnoreCase("No courses found")) {
+            System.out.println("Student is not enrolled in any courses");
+        } else {
+            System.out.println("All the courses enrolled by " + student_id);
+
+            if (courseList != null && courseList != "") {
+                String[] eachTerm = courseList.split(",");
+                for (String item : eachTerm) {
+                    String[] termsCourses = eachTerm[counter++].split(";");
+                    System.out.print("Term: ");
+                    for (String elements : termsCourses) {
+                        System.out.print(elements);
+                        System.out.println("\t");
+                    }
                 }
             }
         }
